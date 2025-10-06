@@ -1,3 +1,7 @@
 # LIA-facom
 
-Funcionalidade a ser criada: resumo de processos, priorização de processos e filtragem com base no tema
+Funcionalidades a serem criadas:
+- resumo de processos
+- priorização de processos
+- filtragem com base no tema
+- site responsivo
